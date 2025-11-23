@@ -50,6 +50,11 @@ console.log(`Stats - STR: ${strength}, AGI: ${agility}, INT: ${intelligence}, LU
 console.log(`Inventory: ${inventory.length ? inventory.join(", ") : "Empty"}`);
 console.log("----------------------\n");
 
+console.log("=================================");
+console.log("       The Dragon's Quest        ");
+console.log("=================================");
+console.log("\nYour quest: Defeat the dragon in the mountains!");
+
 // Main game loop
 // while (gameRunning) {
 // 	// Game logic goes here
